@@ -1,0 +1,241 @@
+
+            header{
+                position: absolute;
+                width: 1920px;
+                height: 113px;
+                left: 0px; 
+                top: 0px;
+                background: #0A0A0A;
+            }
+            .logo{
+                position: absolute;
+                left: 939px;
+                right: 49.04%;
+                top: 25px ;
+                height: 47px;
+                width: 39px;
+                bottom: 96.03%;
+            }
+            h1{
+                position: absolute;
+                width: 600px;
+                height: 77px;
+                left: 718px;
+                top: 184px;
+                color: #490E84;
+                
+                font-family: 'Poppins';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 64px;
+                line-height: 77px;
+            }
+            .logoimg{
+                position: absolute;
+                width: 1150px;
+                height: 657px;
+                left: 400px;
+                top: 301px;
+            }
+            .choose{
+                position: absolute;
+                width: 350px;
+                height: 70px;
+                top: 983px;
+                left: 784px;
+                background: #490E84;
+                border-radius: 30px;
+
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 29px;
+                color: #FFFFFF;
+            }
+            .new{
+                position: absolute;
+                width: 300px;
+                height: 39px;
+                left: 853px;
+                top: 1180px;
+                
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 39px;
+                color: #717171;
+            }
+            .infoo{
+                position: absolute;
+                width: 560px;
+                height: 444px;
+                left: 359px;
+                top: 1269px;
+            }
+            .h2img{
+                position: absolute;
+                width: 350px;
+                height: 370px;
+                left: 1110px;
+                top: 1306px;
+            }
+            .color{
+                position: absolute;
+                width: 400px;
+                height: 39px;
+                left: 794px;
+                top: 1863px;
+                
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 39px;
+                color: #717171;
+            }
+            .silver{
+                position: absolute;
+                width: 240px;
+                height: 150px;
+                left: 359px;
+                top: 1952px;
+                border-radius: 30px;
+            }
+            .deeppurple{
+                position: absolute;
+                width: 240px;
+                height: 150px;
+                left: 679px;
+                top: 1952px;
+                border-radius: 30px;
+            }
+            .gold{
+                position: absolute;
+                width: 240px;
+                height: 150px;
+                left: 999px;
+                top: 1952px;
+                border-radius: 30px;
+            }
+            .spaceblack{
+                position: absolute;
+                width: 240px;
+                height: 150px;
+                left: 1319px;
+                top: 1952px;
+                border-radius: 30px;
+            }
+            .form{
+                position: absolute;
+                width: 600px;
+                height: 500px;
+                left: 360px;
+                top: 2496px;
+                background: #574B63;
+            }
+            .zakaz{
+                position: absolute;
+                width: 600px;
+                height: 500px;
+                left: 959px;
+                top: 2496px;
+            }
+            .hochesh{
+                position: absolute;
+                width: 413px;
+                height: 39px;
+                left:100px;
+                top: 100px;
+
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 39px;
+                color: #FFFFFF
+            }
+            .zakazat{
+                position: absolute;
+                width: 240px;
+                height: 50px;
+                left: 200px;
+                top: 400px;
+                border-radius: 30px;
+                
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 130%;
+                
+                color: #490E84;
+            }
+            footer{
+                position: absolute;
+                width: 1920px;
+                height: 150px;
+                left: -1px;
+                top: 2996px;
+                background: #000000;
+            }
+            .logofoot{
+                position: absolute;
+                width: 39.06px;
+                height: 47.76px;
+                top: 35px;
+                left: 924px;
+            }
+            .hnav{
+                display: flex;
+                flex-direction: row;
+                align-items: flex-start;
+                padding: 0px;
+                gap: 30px;
+                
+                position: absolute;
+                width: 356px;
+                height: 29px;
+                left: 359px;
+                top: 42px;
+            }
+            .tel{
+                position: absolute;
+                width: 235px;
+                height: 29px;
+                left: 1324px;
+                top: 42px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 24px;
+                line-height: 29px;
+                color: #717171;
+            }
+            .polit{
+                position: absolute;
+                width: 218px;
+                height: 18px;
+                left: 360px;
+                top: 45px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 130%;
+                color: #717171;
+            }
+            .telfoot{
+                position: absolute;
+                width: 235px;
+                height: 29px;
+                left: 1324px;
+                top: 45px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 24px;
+                line-height: 29px;
+                color: #717171;
+            }
